@@ -8,9 +8,7 @@ The app features a modular architecture, supports both iOS and Android, and is b
 
 📱 App Screenshots
 
-<img width="849" height="487" alt="screen1" src="https://github.com/user-attachments/assets/1a2c086d-b2f5-4072-a5cd-a49f4a8714a6" />
-
-<img width="849" height="487" alt="screen2" src="https://github.com/user-attachments/assets/ba99ad9b-e956-469c-91e1-8a939e99a84f" />
+<img width="490" height="540" alt="image" src="https://github.com/user-attachments/assets/abe00cd1-ea47-46fb-b87e-f715e1065914" />
 
 
 🚀 Key Features (Module Overview)
