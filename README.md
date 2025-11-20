@@ -62,11 +62,6 @@ The app automatically falls back to Mock mode when the API is unavailable
 
 Both Recognition API and Market API base URLs can be configured inside the app
 
-Market API format example:
-
-GET /market/{variety}?city=<CITY_NAME>
-
-
 📄 License
 
 This project is provided as an open-source example.
