@@ -5,10 +5,13 @@ It integrates disease diagnosis, market analytics & forecasting, fertilizer reco
 
 The app features a modular architecture, supports both iOS and Android, and is built for easy maintenance, extensibility, and real-world agricultural workflows.
 
+
 📱 App Screenshots
 
 <img width="849" height="487" alt="screen1" src="https://github.com/user-attachments/assets/1a2c086d-b2f5-4072-a5cd-a49f4a8714a6" />
+
 <img width="669" height="360" alt="screen2" src="https://github.com/user-attachments/assets/ba99ad9b-e956-469c-91e1-8a939e99a84f" />
+
 
 🚀 Key Features (Module Overview)
 1. AI Disease Diagnosis
@@ -31,6 +34,7 @@ The settings module includes a complete API configuration center where users can
 
 The case archive stores all previously generated diagnosis records in chronological order. Each entry includes the leaf image, disease name, timestamp, and confidence level. Users can browse the list, open a detailed view for any case, and review the AI-generated recommendations associated with it. Deletion is supported, and all data is persistently stored on the device, ensuring reliable offline access.
 
+
 🏁 Getting Started
 1. Clone the repository
 git clone https://github.com/yourname/OrangeTalkApp.git
@@ -48,8 +52,8 @@ pod install
 cd ..
 flutter run
 
-🧪 Development Notes
 
+🧪 Development Notes
 Supports iOS and Android
 
 For iOS, CocoaPods is required (pod install)
@@ -62,7 +66,7 @@ Market API format example:
 
 GET /market/{variety}?city=<CITY_NAME>
 
-📄 License
 
+📄 License
 This project is provided as an open-source example.
 You are free to modify, extend, and use it for further development.
