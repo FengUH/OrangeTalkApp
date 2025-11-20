@@ -36,7 +36,7 @@ The case archive stores all previously generated diagnosis records in chronologi
 🏁 Getting Started
 
 1. Clone the repository
-git clone https://github.com/yourname/OrangeTalkApp.git
+git clone https://github.com/FengUH/OrangeTalkApp.git
 cd OrangeTalkApp
 
 2. Install dependencies
