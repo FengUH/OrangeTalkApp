@@ -1,0 +1,51 @@
+name: citrus_helper
+description: "AI 柑橘施肥与病害识别助手 App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🍎 iOS 风格图标支持
+  cupertino_icons: ^1.0.8
+
+  # 📸 图片选择与拍照
+  image_picker: ^1.0.7
+
+  # 📈 折线图（天气趋势展示）
+  fl_chart: ^0.68.0
+
+  # 🌐 网络请求（HTTP 接口调用）
+  http: ^1.5.0
+
+  # 🕓 国际化与时间格式
+  intl: ^0.20.2
+
+  # 💾 本地存储（设置、病例、缓存）
+  shared_preferences: ^2.2.3
+  path_provider: ^2.1.5
+
+  # 📤 分享功能（复制/分享推荐用量等）
+  share_plus: ^7.2.2
+
+  # 🔔 弹出提示
+  fluttertoast: ^8.2.4
+
+  provider: ^6.1.2
+
+  uuid: ^4.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # 代码规范检查
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
