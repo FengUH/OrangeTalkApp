@@ -10,10 +10,11 @@ The app features a modular architecture, supports both iOS and Android, and is b
 
 <img width="849" height="487" alt="screen1" src="https://github.com/user-attachments/assets/1a2c086d-b2f5-4072-a5cd-a49f4a8714a6" />
 
-<img width="669" height="360" alt="screen2" src="https://github.com/user-attachments/assets/ba99ad9b-e956-469c-91e1-8a939e99a84f" />
+<img width="849" height="487" alt="screen2" src="https://github.com/user-attachments/assets/ba99ad9b-e956-469c-91e1-8a939e99a84f" />
 
 
 🚀 Key Features (Module Overview)
+
 1. AI Disease Diagnosis
 
 The diagnosis module enables users to either take a photo or select an existing image of a citrus leaf. After uploading, the AI model analyzes the leaf and returns the disease name, confidence score, and practical recommendations—such as pesticide options, watering guidance, and preventive measures. The diagnosis result is displayed immediately on the same page, and users can save any result directly to the case archive with a single tap.
@@ -36,6 +37,7 @@ The case archive stores all previously generated diagnosis records in chronologi
 
 
 🏁 Getting Started
+
 1. Clone the repository
 git clone https://github.com/yourname/OrangeTalkApp.git
 cd OrangeTalkApp
@@ -54,6 +56,7 @@ flutter run
 
 
 🧪 Development Notes
+
 Supports iOS and Android
 
 For iOS, CocoaPods is required (pod install)
@@ -68,5 +71,6 @@ GET /market/{variety}?city=<CITY_NAME>
 
 
 📄 License
+
 This project is provided as an open-source example.
 You are free to modify, extend, and use it for further development.
