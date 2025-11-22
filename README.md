@@ -1,4 +1,4 @@
-🍊 OrangeTalkApp — AI-Powered Citrus Assistant (Flutter)
+🍊 OrangeTalkApp — AI-Powered Citrus Assistant
 
 OrangeTalkApp is a Flutter-based intelligent assistant designed for citrus growers.
 It integrates disease diagnosis, market analytics & forecasting, fertilizer recommendations, case archives, and configurable API services into a single mobile application.
