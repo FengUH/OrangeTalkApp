@@ -56,8 +56,6 @@ flutter run
 
 Supports iOS and Android
 
-For iOS, CocoaPods is required (pod install)
-
 The app automatically falls back to Mock mode when the API is unavailable
 
 Both Recognition API and Market API base URLs can be configured inside the app
