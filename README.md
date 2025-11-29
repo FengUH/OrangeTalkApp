@@ -32,26 +32,6 @@ The settings module includes a complete API configuration center where users can
 
 The case archive stores all previously generated diagnosis records in chronological order. Each entry includes the leaf image, disease name, timestamp, and confidence level. Users can browse the list, open a detailed view for any case, and review the AI-generated recommendations associated with it. Deletion is supported, and all data is persistently stored on the device, ensuring reliable offline access.
 
-
-🏁 Getting Started
-
-1. Clone the repository
-git clone https://github.com/FengUH/OrangeTalkApp.git
-cd OrangeTalkApp
-
-2. Install dependencies
-flutter pub get
-
-3. Run the app
-flutter run
-
-4. iOS setup (if building for iOS)
-cd ios
-pod install
-cd ..
-flutter run
-
-
 🧪 Development Notes
 
 Supports iOS and Android
