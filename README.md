@@ -1,16 +1,19 @@
-🍊 OrangeTalkApp（橘说App） — AI-Powered Citrus Assistant
+# 🍊 OrangeTalkApp（橘说App） — AI-Powered Citrus Assistant
 
 OrangeTalkApp is a Flutter-based intelligent assistant designed for citrus growers.
 It integrates disease diagnosis, market analytics & forecasting, fertilizer recommendations, case archives, and configurable API services into a single mobile application.
 
 The app features a modular architecture, supports both iOS and Android, and is built for easy maintenance, extensibility, and real-world agricultural workflows.
 
+---
 
-📱 App Screenshots
+## 📱 App Screenshots
 
 <img width="600" height="671" alt="Screenshot 2025-11-19 at 10 31 20 PM" src="https://github.com/user-attachments/assets/164b7924-befb-4449-ab44-1b06ecf8a5a5" />
 
-🚀 Key Features (Module Overview)
+---
+
+## 🚀 Key Features (Module Overview)
 
 1. AI Disease Diagnosis
 
@@ -32,7 +35,9 @@ The settings module includes a complete API configuration center where users can
 
 The case archive stores all previously generated diagnosis records in chronological order. Each entry includes the leaf image, disease name, timestamp, and confidence level. Users can browse the list, open a detailed view for any case, and review the AI-generated recommendations associated with it. Deletion is supported, and all data is persistently stored on the device, ensuring reliable offline access.
 
-🧪 Development Notes
+---
+
+## 🧪 Development Notes
 
 Supports iOS and Android
 
@@ -40,7 +45,9 @@ The app automatically falls back to Mock mode when the API is unavailable
 
 Both Recognition API and Market API base URLs can be configured inside the app
 
-📄 License
+---
+
+## 📄 License
 
 This project is provided as an open-source example.
 You are free to modify, extend, and use it for further development.
